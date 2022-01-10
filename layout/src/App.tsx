@@ -11,8 +11,8 @@ export default App;
 
 const _Frame = styled.div`
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    height: 100%;
     background-color: #d60000
 `;
 
